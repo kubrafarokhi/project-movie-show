@@ -1,0 +1,13 @@
+.filter-panel{
+    width: 200px;
+}
+
+.filter-button {
+    padding: 5px;
+    width: 150px;
+    height: 30px;
+    border-radius: 6px;
+    background-color : #028299;
+    margin: 10px 0;
+    cursor: pointer;
+}

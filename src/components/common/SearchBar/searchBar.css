@@ -1,0 +1,18 @@
+.search-wrapper{
+ display:  flex;
+ justify-content: center;
+ align-items: center;
+ position: relative;
+}
+
+.search-wrapper > input {
+    width: 190px;
+    height: 30px;
+    border-radius: 4px;
+
+}
+.search-wrapper > img{
+    position: absolute;
+    right: 9px;
+    padding: 5px;
+}

@@ -1,0 +1,9 @@
+
+.select-opt{
+    width: 200px;
+    height: 35px;
+    padding: 3px 15px;
+    margin-bottom: 20px;
+    background-color: #242526;
+    border-radius: 6px;
+}

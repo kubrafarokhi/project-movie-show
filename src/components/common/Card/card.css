@@ -1,0 +1,11 @@
+.card-wrapper{
+    width: 215px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+}
+.image{
+    width: 215px;
+}
