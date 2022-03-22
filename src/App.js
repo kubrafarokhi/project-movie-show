@@ -22,7 +22,7 @@ function App() {
     theme === themes.dark ? setTheme(themes.light) : setTheme(themes.dark);
   };
   return (
-    <ThemeContext.Provider value={themes.dark}>
+    <ThemeContext.Provider value={theme}>
       <div
         style={{
           backgroundColor:

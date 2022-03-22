@@ -1,6 +1,12 @@
 .filter-panel{
     width: 200px;
 }
+.se-header{
+    margin: 20px 0;
+    margin: 20px 0;
+    font-weight: bold;
+    font-size: 20px;
+}
 
 .filter-button {
     padding: 5px;
@@ -10,4 +16,10 @@
     background-color : #028299;
     margin: 10px 0;
     cursor: pointer;
+}
+.my-span{
+    display: flex;
+}
+.my-span > select {
+    width: 45px !important;
 }

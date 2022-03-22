@@ -3,7 +3,7 @@ import React from "react";
 export const themes = {
   light: {
     title_text: "#028299",
-    main_text: "#0000",
+    main_text: "black",
     background_color: "#ffff",
     subtitle_text: "#1B03A3",
   },
